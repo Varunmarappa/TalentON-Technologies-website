@@ -4523,7 +4523,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 1px solid #5a0c8c;
+  border: 1px solid #003b6d;
   background-color: #fff;
   -webkit-transform: translate(0px, -50%) rotate(45deg);
   -ms-transform: translate(0px, -50%) rotate(45deg);
@@ -4533,7 +4533,7 @@ blockquote {
 .bot-rectangle-small {
   width: 8px;
   height: 8px;
-  background-color: #5a0c8c;
+  background-color: #003b6d;
 }
 
 .box-mw-914 {
